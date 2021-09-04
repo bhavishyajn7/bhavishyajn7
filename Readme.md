@@ -2,7 +2,7 @@
 #### I am GitHub Readme Generator's creator
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
